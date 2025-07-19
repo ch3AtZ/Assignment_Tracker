@@ -1,5 +1,7 @@
 ASSIGNMENT TRACKER ASSIGNMENT 
 
+PART A in the folder contains written part of the assignment 
+
 Frontend -> React JS
 Backend -> Fast API
 DATABASE -> SQLITE 
